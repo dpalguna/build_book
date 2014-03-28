@@ -9,7 +9,7 @@ Brief description of what the code does.
 
 2) g++ build_book_uncross.cpp -std=c++11 -o build_book_uncross
 
-3) ./build_book_uncross "data file for a single ticker" "time interval delta"
+3) ./build_book_uncross "data file for a single ticker" "time interval delta in ms"
 
 4) class_definitions.h contains class definitions for the messages, state, features, timestamp
 
